@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tema3</string>
+    <string name="name">Meianu Raluca</string>
+    <string name="user_name">Raluca</string>
+    <string name="email">ralua.dada@gmail.com</string>
+    <string name="title_todo">Todos</string>
+    <string name="title_user">List of users</string>
+    <string name="title">De facut curat</string>
+    <string name="complet">Da</string>
+    <string name="first_textview">Selected time</string>
+    <string name="second_textview">Selected date</string>
+    <string name="button_one">Choose\nthe time</string>
+    <string name="button_two">Choose\nthe date</string>
+    <string name="button_three">Create\nan alarm</string>
+</resources>
